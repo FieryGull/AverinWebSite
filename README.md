@@ -1,2 +1,2 @@
-# Averin_site
+# AverinWebSite
 Website for scientist Averin written in Django
